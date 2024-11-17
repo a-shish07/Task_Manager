@@ -11,6 +11,7 @@ Technologies Used
 React: A JavaScript library for building user interfaces.
 Redux Toolkit: A set of tools to simplify Redux development, ensuring predictable state management.
 Tailwind CSS: A utility-first CSS framework for rapid UI development.
+
 Setup and Launch Process
 Follow these steps to set up and run the application locally:
 
